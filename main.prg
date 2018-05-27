@@ -1,0 +1,4 @@
+PUBLIC gcPath
+gcPath = ADDBS(SYS(5) + SYS(2003))
+DO FORM main
+READ EVENTS
